@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740935238192
+current_stage: None
+description: null
+last_updated_timestamp: 1740935238192
+name: BaselineModelLast4Weeks
+run_id: b255a15c513f45e89fae3c275d3c60e8
+run_link: null
+source: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/534658578267880013/b255a15c513f45e89fae3c275d3c60e8/artifacts/model_artifact
+status: READY
+status_message: null
+storage_location: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/534658578267880013/b255a15c513f45e89fae3c275d3c60e8/artifacts/model_artifact
+user_id: null
+version: 1

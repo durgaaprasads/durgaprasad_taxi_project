@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/871203767404428732/d6921e0a28ea46b68c6eefbb53e112b8/artifacts
+end_time: 1740935424256
+entry_point_name: ''
+experiment_id: '871203767404428732'
+lifecycle_stage: active
+run_id: d6921e0a28ea46b68c6eefbb53e112b8
+run_name: luxuriant-bear-159
+run_uuid: d6921e0a28ea46b68c6eefbb53e112b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740935407899
+status: 3
+tags: []
+user_id: saisatvikhlakkimsetty

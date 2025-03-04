@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/624249888265621653/ab6715592b90443680cca1e76fc18b5c/artifacts
+end_time: 1740935179396
+entry_point_name: ''
+experiment_id: '624249888265621653'
+lifecycle_stage: active
+run_id: ab6715592b90443680cca1e76fc18b5c
+run_name: sincere-fox-888
+run_uuid: ab6715592b90443680cca1e76fc18b5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740935162774
+status: 3
+tags: []
+user_id: saisatvikhlakkimsetty

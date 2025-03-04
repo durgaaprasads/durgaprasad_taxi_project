@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1740935335530
+current_stage: None
+description: null
+last_updated_timestamp: 1740935335530
+name: LGBMRegressor
+run_id: ad219ad87b4e427c8529e32fb459f16a
+run_link: null
+source: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/784345618200116385/ad219ad87b4e427c8529e32fb459f16a/artifacts/model_artifact
+status: READY
+status_message: null
+storage_location: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/784345618200116385/ad219ad87b4e427c8529e32fb459f16a/artifacts/model_artifact
+user_id: null
+version: 1

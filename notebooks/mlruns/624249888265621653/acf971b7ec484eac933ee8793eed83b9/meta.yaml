@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/624249888265621653/acf971b7ec484eac933ee8793eed83b9/artifacts
+end_time: 1741020846204
+entry_point_name: ''
+experiment_id: '624249888265621653'
+lifecycle_stage: active
+run_id: acf971b7ec484eac933ee8793eed83b9
+run_name: bedecked-pig-81
+run_uuid: acf971b7ec484eac933ee8793eed83b9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741020829751
+status: 3
+tags: []
+user_id: saisatvikhlakkimsetty

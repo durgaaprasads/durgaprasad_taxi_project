@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/784345618200116385/ad219ad87b4e427c8529e32fb459f16a/artifacts
+end_time: 1740935335538
+entry_point_name: ''
+experiment_id: '784345618200116385'
+lifecycle_stage: active
+run_id: ad219ad87b4e427c8529e32fb459f16a
+run_name: adventurous-loon-377
+run_uuid: ad219ad87b4e427c8529e32fb459f16a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740935319142
+status: 3
+tags: []
+user_id: saisatvikhlakkimsetty

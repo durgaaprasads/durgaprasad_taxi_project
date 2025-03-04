@@ -1,0 +1,6 @@
+artifact_location: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/784345618200116385
+creation_time: 1740935319081
+experiment_id: '784345618200116385'
+last_update_time: 1740935319081
+lifecycle_stage: active
+name: LGBMRegressor
