@@ -182,3 +182,5 @@ data/*
 models/*
 .venv/*
 .mlruns/*
+notebooks/mlruns/
+*.json
