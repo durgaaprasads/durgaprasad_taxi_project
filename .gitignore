@@ -181,4 +181,3 @@ pyrightconfig.json
 data/*
 models/*
 .venv/*
-.notebooks/mlruns/*

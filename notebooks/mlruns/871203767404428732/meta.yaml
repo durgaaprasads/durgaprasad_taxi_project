@@ -1,6 +1,0 @@
-artifact_location: file:///Users/saisatvikhlakkimsetty/Downloads/sp25_taxi-main/notebooks/mlruns/871203767404428732
-creation_time: 1740935407840
-experiment_id: '871203767404428732'
-last_update_time: 1740935407840
-lifecycle_stage: active
-name: LGBMRegressorWFE
