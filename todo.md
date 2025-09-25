@@ -5,7 +5,7 @@
 **Purpose**: Setup an isolated Python environment for working on this project.
 
 - [ ] Install Python via Anaconda Python or Microsoft App Store
-- [ ] Install Poetry
+- [ ] Install Poetrys
 - [ ] Start a new project
 - [ ] Activate the poetry-managed environment
 - [ ] Install `notebook` package using Poetry
